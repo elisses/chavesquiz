@@ -1,28 +1,66 @@
 {
     "bg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5301c157eef956f68cbba78a341b41b22b50e16bc8254d252d72132e0517f33c._RI_V_TTW_.jpg",
-    "title": "Quiz CSS da Alura",
+    "title": "Quiz Turma do Chaves",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
         {
-            "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-            "title": "Como fazer um seletor por id via CSS?",
+            "image": "https://media.tenor.com/images/14aeb96331d42064b81501c825f25db0/tenor.gif",
+            "title": "Qual é o nome completo de Sr Barriga?",
             "description": "Essa é pra aquecer",
-            "answer": 2,
+            "answer": 0,
             "alternatives": [
-                ".elemento",
-                "*elemento",
-                "#elemento",
-                "%elemento"
+                "Zenom Barriga e Pesado",
+                "Zenom Cachalote",
+                "Zenom Pesado e Barriga",
+                "Zenom Dom Pesado Barriga"
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-            "title": "Como fazer um background gradiente com css?",
+            "image": "https://media.tenor.com/images/130e21160b135445ce5b46e559ae7f3b/tenor.gif",
+            "title": "Quantos meses Seu Madruga deve de aluguel?",
+            "description": "Faz tempo em haha",
+            "answer": 1,
+            "alternatives": [
+                "12 meses",
+                "14 meses",
+                "5 meses",
+                "Ele sempre paga o aluguel em dia"
+            ]
+        },
+        {
+            "image": "https://media.tenor.com/images/78babc3576cd45a1ee95bbf4c9caf32d/tenor.gif",
+            "title": "De quem Seu Madruga é pai?",
+            "description": "Vamos lá!",
+            "answer": 2,
+            "alternatives": [
+                "Paty",
+                "Chaves",
+                "Chiquinha",
+                "Kiko"
+            ]
+        },
+        {
+            "image": "https://media.tenor.com/images/9012c8e4b0b71508858b730b57c047a6/tenor.gif",
+            "title": "De quem é a frase 'prefiro morrer do que perder a vida'?",
             "description": "Faz tempo em haha",
             "answer": 0,
             "alternatives": [
-                "background: linear-gradient(#e66465, #9198e5);",
-                "background: gradient(#e66465, #9198e5);"
+                "Chaves",
+                "kiko",
+                "Seu Madruga",
+                "Chiquinha"
+            ]
+        },
+        {
+            "image": "https://media.tenor.com/images/acd6684e02dcb98e1a8a0c8b4e9d0dec/tenor.gif",
+            "title": "Quem interpretou Professor Girafales?",
+            "description": "Faz tempo em haha",
+            "answer": 2,
+            "alternatives": [
+                "Carlos Vilagrán",
+                "Edgar Viva",
+                "Rubén Aguirre",
+                "Ramón Valdez"
             ]
         }
     ],
