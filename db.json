@@ -37,7 +37,8 @@
             "contrastText": "#FFFFFF",
             "wrong": "#FF5722",
             "success": "#4CAF50",
-            "orange": "#f57c00"
+            "orange": "#f57c00",
+            "transparent": "transparent"
         },
         "borderRadius": "4px"
     }
