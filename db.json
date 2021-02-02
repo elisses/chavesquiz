@@ -65,7 +65,11 @@
         }
     ],
     "external": [
-        ""
+        "https://aluraquiz-css.omariosouto.vercel.app/",
+        "https://aluraquiz-devsoutinho.omariosouto.vercel.app/",
+        "https://f1quiz.vercel.app/",
+        "https://chess-quiz.styllth.vercel.app/",
+        "https://mando-quiz.ricardomogio.vercel.app/"
     ],
     "theme": {
         "colors": {
